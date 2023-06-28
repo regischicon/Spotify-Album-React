@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spotify-Album-React/static/css/main.1b344cac.css",
+    "main.js": "/Spotify-Album-React/static/js/main.106df706.js",
+    "static/js/787.82b2444e.chunk.js": "/Spotify-Album-React/static/js/787.82b2444e.chunk.js",
+    "index.html": "/Spotify-Album-React/index.html",
+    "main.1b344cac.css.map": "/Spotify-Album-React/static/css/main.1b344cac.css.map",
+    "main.106df706.js.map": "/Spotify-Album-React/static/js/main.106df706.js.map",
+    "787.82b2444e.chunk.js.map": "/Spotify-Album-React/static/js/787.82b2444e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b344cac.css",
+    "static/js/main.106df706.js"
+  ]
+}
